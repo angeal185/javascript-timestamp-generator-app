@@ -1,2 +1,2 @@
-# javascript-timestamp-generator-app-
+# javascript-timestamp-generator-app
 offline timestamp generator written in coffeescript

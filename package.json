@@ -1,0 +1,26 @@
+{
+  "name": "javascript.timestamp.generator.app",
+  "version": "1.0.0",
+  "description": "javascript-timestamp-generator-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/javascript-timestamp-generator-app.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "ben eaves",
+  "license": "MIT",
+  "homepage": "https://github.com/angeal185/javascript-timestamp-generator-app",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.6.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "require-dir": "^0.3.2"
+  }
+}
